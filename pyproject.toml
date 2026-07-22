@@ -1,7 +1,7 @@
 [project]
 name = "research-agent"
 version = "0.1.0"
-description = "Add your description here"
+description = "A CLI agent that researches a company and role, then writes a realistic day-to-day workflow for the job"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
